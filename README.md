@@ -1,4 +1,4 @@
-# bitcoin-wallet
+# bitcoin-wallet-Node.Js
 
 var express = require('express');
 var router = express.Router();  
